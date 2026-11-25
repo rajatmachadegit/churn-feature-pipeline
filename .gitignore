@@ -1,0 +1,20 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python Cache &amp; Testing
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Sensitive files &amp; Environment variables
+.env
+*.key
+*.token
+
+# OS / Editor specific
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
